@@ -1,0 +1,1 @@
+# prvn-_projekt.py
